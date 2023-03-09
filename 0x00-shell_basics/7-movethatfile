@@ -1,2 +1,0 @@
-#!/bin/bash
-mv /tap/betty /tap/my_first_directory/betty
